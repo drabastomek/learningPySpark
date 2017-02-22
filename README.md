@@ -33,7 +33,7 @@ In this book, we will guide you through the latest incarnation of Apache Spark u
 
 At Microsoft, Tomasz works with big data on a daily basis solving machine learning problems such as anomaly detection, churn prediction or pattern recognition using Spark.
 
-Tomasz has also authored the Practical Data Analysis Cookbook published by Packt Publishing in 2016; you can purchase that book on Amazon, Packt and O’Reilly.
+Tomasz has also authored the Practical Data Analysis Cookbook published by Packt Publishing in 2016; you can purchase that book on [Amazon](https://www.amazon.com/Practical-Analysis-Cookbook-Tomasz-Drabas/dp/1783551666/ref=sr_1_1?ie=UTF8&qid=1487737534&sr=8-1&keywords=practical+data+analysis+cookbook), [Packt](https://www.packtpub.com/big-data-and-business-intelligence/practical-data-analysis-cookbook) and [O’Reilly](http://shop.oreilly.com/product/9781783551668.do).
 
  
 
