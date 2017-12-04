@@ -1,7 +1,7 @@
 # Learning PySpark
 Code base for the Learning PySpark book by Tomasz Drabas and Denny Lee. 
 
-![Book cover](https://www.learningpyspark.com/wp-content/uploads/2017/02/Learning-PySpark-Banner-Final-768x515.png)
+![Book cover](https://www.learningpyspark.com/wp-content/uploads/2017/02/Learning-PySpark-Banner-with-Text-Final-768x515.png)
 
 Available from [Packt](https://www.packtpub.com/big-data-and-business-intelligence/learning-pyspark) and [Amazon](https://www.amazon.com/Learning-PySpark-Tomasz-Drabas/dp/1786463709/ref=s9_simh_gw_g14_i1_r?_encoding=UTF8&fpl=fresh&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=F634WQ321FDKJHXRVD0K&pf_rd_t=36701&pf_rd_p=1cded295-23b4-40b1-8da6-7c1c9eb81d33&pf_rd_i=desktop).
 
