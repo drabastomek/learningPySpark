@@ -6,7 +6,6 @@ Code base for the Learning PySpark book by Tomasz Drabas and Denny Lee.
 Available from [Packt](https://www.packtpub.com/big-data-and-business-intelligence/learning-pyspark) and [Amazon](https://www.amazon.com/Learning-PySpark-Tomasz-Drabas/dp/1786463709/ref=s9_simh_gw_g14_i1_r?_encoding=UTF8&fpl=fresh&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=F634WQ321FDKJHXRVD0K&pf_rd_t=36701&pf_rd_p=1cded295-23b4-40b1-8da6-7c1c9eb81d33&pf_rd_i=desktop).
 
 
-
 # Introduction
 
 It is estimated that in 2013 the whole world produced around 4.4 zettabytes of data; that is, 4.4 billion terabytes! By 2020, we (as a human race) are expected to produce ten times that. With data getting larger literally by the second there is a growing appetite for making sense out of it.
